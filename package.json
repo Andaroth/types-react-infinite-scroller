@@ -1,0 +1,88 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "@types/react-infinite-scroller@1.0.6",
+        "scope": "@types",
+        "escapedName": "@types%2freact-infinite-scroller",
+        "name": "@types/react-infinite-scroller",
+        "rawSpec": "1.0.6",
+        "spec": "1.0.6",
+        "type": "version"
+      },
+      "/var/www/constructr/node"
+    ]
+  ],
+  "_from": "@types/react-infinite-scroller@1.0.6",
+  "_id": "@types/react-infinite-scroller@1.0.6",
+  "_inCache": true,
+  "_location": "/@types/react-infinite-scroller",
+  "_npmOperationalInternal": {
+    "host": "s3://npm-registry-packages",
+    "tmp": "tmp/react-infinite-scroller_1.0.6_1518469346024_0.43505225760236854"
+  },
+  "_npmUser": {
+    "name": "types",
+    "email": "ts-npm-types@microsoft.com"
+  },
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "@types/react-infinite-scroller@1.0.6",
+    "scope": "@types",
+    "escapedName": "@types%2freact-infinite-scroller",
+    "name": "@types/react-infinite-scroller",
+    "rawSpec": "1.0.6",
+    "spec": "1.0.6",
+    "type": "version"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/@types/react-infinite-scroller/-/react-infinite-scroller-1.0.6.tgz",
+  "_shasum": "ab36d95ce25712b70ccff439f2a3204bb15476d9",
+  "_shrinkwrap": null,
+  "_spec": "@types/react-infinite-scroller@1.0.6",
+  "_where": "/var/www/constructr/node",
+  "contributors": [
+    {
+      "name": "Lauri Lavanti",
+      "url": "https://github.com/Lapanti"
+    },
+    {
+      "name": "Piotr Srebniak",
+      "url": "https://github.com/psrebniak"
+    }
+  ],
+  "dependencies": {
+    "@types/react": "*"
+  },
+  "description": "TypeScript definitions for react-infinite-scroller",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "integrity": "sha512-hP5XKHc3kSNE7ohXPn0Uq+Oo8HsjCEGk74KO86CDArcpzcMfSFs0Eu/B8ayFX3CMaaidNMIwf5jMjUXdfBhY/w==",
+    "shasum": "ab36d95ce25712b70ccff439f2a3204bb15476d9",
+    "tarball": "https://registry.npmjs.org/@types/react-infinite-scroller/-/react-infinite-scroller-1.0.6.tgz",
+    "fileCount": 4,
+    "unpackedSize": 4935
+  },
+  "license": "MIT",
+  "main": "",
+  "maintainers": [
+    {
+      "name": "types",
+      "email": "ts-npm-types@microsoft.com"
+    }
+  ],
+  "name": "@types/react-infinite-scroller",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "https://www.github.com/DefinitelyTyped/DefinitelyTyped.git"
+  },
+  "scripts": {},
+  "typeScriptVersion": "2.6",
+  "typesPublisherContentHash": "abf7c3e16eb0f977d06d2e40ae735246d4c0244941fcec6615032a89da9d1b55",
+  "version": "1.0.6"
+}
